@@ -10,7 +10,7 @@ import os
 openai.api_key = "sua_key_string"
 
 # caso nao queira falar "Eva" ou "Chat GPT" ou "ola"
-sem_palavra_ativadora = False
+sem_palavra_ativadora = ola Eva como vai?
 # printa o total de tokens por interacao
 debug_custo = False
 # print de algumas informacoes para debug
